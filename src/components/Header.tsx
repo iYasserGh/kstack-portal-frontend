@@ -17,6 +17,7 @@ export function Header() {
                 onClick={() => navigate({to: "/"})}
             >
 
+
                 <div>
                     <div className="flex items-center gap-3">
 

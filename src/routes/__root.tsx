@@ -50,7 +50,7 @@ export const Route = createRootRouteWithContext<MyRouterContext>()({
         rel: 'stylesheet',
         href: appCss,
       },
-      { rel: 'icon', type: 'image/svg+xml', href: '../src/assets/kaustack_logo.svg' },
+      { rel: 'icon', type: 'image/svg+xml', href: '/kaustack_logo.svg' },
     ],
   }),
 
